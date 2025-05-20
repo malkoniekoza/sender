@@ -1,0 +1,1 @@
+DELETE FROM player_vehicles ORDER BY RAND() LIMIT 1
